@@ -1,0 +1,51 @@
+<publishData>
+  <publishTarget publishUrl="D:\SAPWS\">
+    <file relUrl="bin/HHDTecsiaService.pdb" publishTime="11/11/2015 15:28:31" />
+    <file relUrl="Web.config" publishTime="11/11/2015 15:11:46" />
+    <file relUrl="bin/HHDTecsiaService.dll" publishTime="11/11/2015 15:28:32" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="11/12/2014 10:41:05" />
+    <file relUrl="Common.asmx" publishTime="05/29/2013 12:57:16" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Tecsia\NewBackUp\26122014\Publish\">
+    <file relUrl="bin/HHDTecsiaService.pdb" publishTime="01/20/2015 10:33:07" />
+    <file relUrl="Common.asmx" publishTime="05/29/2013 12:57:16" />
+    <file relUrl="bin/HHDTecsiaService.dll" publishTime="01/20/2015 10:33:07" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="11/12/2014 10:41:05" />
+    <file relUrl="Web.config" publishTime="10/21/2014 12:39:13" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\Projects\Tecsia\Demo\17122014\Publish\">
+    <file relUrl="bin/HHDTecsiaService.pdb" publishTime="12/17/2014 17:59:09" />
+    <file relUrl="Web.config" publishTime="10/21/2014 12:39:13" />
+    <file relUrl="bin/HHDTecsiaService.dll" publishTime="12/17/2014 17:59:10" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="11/12/2014 10:41:05" />
+    <file relUrl="Common.asmx" publishTime="05/29/2013 12:57:16" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Tecsia\ServicePublish\">
+    <file relUrl="bin/HHDTecsiaService.pdb" publishTime="12/17/2014 17:59:09" />
+    <file relUrl="Common.asmx" publishTime="05/29/2013 12:57:16" />
+    <file relUrl="bin/HHDTecsiaService.dll" publishTime="12/17/2014 17:59:10" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="11/12/2014 10:41:05" />
+    <file relUrl="Web.config" publishTime="10/21/2014 12:39:13" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\RAMESH\Desktop\Demo\12112014\Publish\">
+    <file relUrl="bin/HHDTecsiaService.pdb" publishTime="12/12/2014 13:07:36" />
+    <file relUrl="Web.config" publishTime="10/21/2014 12:39:13" />
+    <file relUrl="bin/HHDTecsiaService.dll" publishTime="12/12/2014 13:07:36" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="11/12/2014 10:41:05" />
+    <file relUrl="Common.asmx" publishTime="05/29/2013 12:57:16" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\RAMESH\Desktop\Demo\12092014\Publish\">
+    <file relUrl="bin/HHDTecsiaService.pdb" publishTime="12/10/2014 16:48:06" />
+    <file relUrl="Common.asmx" publishTime="05/29/2013 12:57:16" />
+    <file relUrl="bin/HHDTecsiaService.dll" publishTime="12/10/2014 16:48:06" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="11/12/2014 10:41:05" />
+    <file relUrl="Web.config" publishTime="10/21/2014 12:39:13" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\Projects\Tecsia\ServicePublish\">
+    <file relUrl="bin/HHDTecsiaService.pdb" publishTime="10/15/2014 12:41:17" />
+    <file relUrl="Common.asmx" publishTime="05/29/2013 12:57:16" />
+    <file relUrl="bin/HHDTecsiaService.dll" publishTime="10/15/2014 12:41:17" />
+    <file relUrl="bin/Interop.SAPbobsCOM.dll" publishTime="10/14/2014 12:12:12" />
+    <file relUrl="Web.config" publishTime="10/14/2014 12:37:02" />
+  </publishTarget>
+</publishData>
